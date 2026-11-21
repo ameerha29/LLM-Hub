@@ -64,3 +64,4 @@ jobs:
         with:
           name: LiveContainer-IPA
           path: build_output/UnsignedApp.ipa
+        # run
